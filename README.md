@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">A passionate frontend developer from Atlanta, Georgia</h3>
 
-< ul align="center">- 🔭 I’m currently working on **A Kitchen Automation System**
+- 🔭 I’m currently working on **A Kitchen Automation System**
 
 - 🌱 I’m currently learning **Javascript, React, Vue, and SQL**
 
@@ -10,7 +10,7 @@
 - 📫 How to reach me **jacobharperdesign@gmail.com**
 
 - ⚡ Fun fact **I was born with no wisdom teeth. Only intellegent teeth.**
-</ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
