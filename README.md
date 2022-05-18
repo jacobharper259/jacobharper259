@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
-<h3 align="center">A passionate frontend developer from Atlanta, Georgia</h3>
+<h3 align="center">A passionate web developer from Atlanta, Georgia</h3>
 <div align="center">
 🔭 I’m currently working on A Kitchen Automation System
 
