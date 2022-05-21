@@ -5,8 +5,10 @@
 
 🌱 I’m currently learning **Javascript, React, Vue, and SQL**
 
-👨‍💻 All of my projects are available at [https://jmharper.netlify.app/](https://jmharper.netlify.app/)
-
+👨‍💻 All of my projects are available at [my website](https://jmharper.netlify.app/)
+  
+📄 Know about my experiences [from my resume](https://jmharper.netlify.app/resume.pdf)
+  
 📫 How to reach me **jacobharperdesign@gmail.com**
 
 ⚡ Fun fact: **I was born with no wisdom teeth. Only intellegent teeth.**
