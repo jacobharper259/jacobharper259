@@ -3,7 +3,7 @@
 
 
 <div align="center">
-🔭 I’m currently working on A Kitchen Automation System
+🔭 I’m currently working on A Starbucks Drink Selector
   
 
 🌱 I’m currently learning **Javascript, React, Vue, and SQL**
